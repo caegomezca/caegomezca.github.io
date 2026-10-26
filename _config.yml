@@ -23,7 +23,7 @@ repository               : "caegomezca.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile1.png"
+  avatar           : "profile.png"
   name             : "Camilo E. Gomez C."
   pronouns         : # example: "she/her"  
   bio              : "Experimental economists, 6th-year PhD Student at CERGE-EI"
