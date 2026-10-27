@@ -11,35 +11,28 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Economics and Econometrics, CERGE-EI, 2027 (expected)
+* M.A. in Economics, CERGE-EI, 2023
+* M.A. in Economic Sciences, Universidad Nacional de Colombia, 2019 (cum laude)
+* B.S. in Economics, Universidad Nacional de Colombia, 2017
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Spring 2025: Junior Researcher
+  * CERGE-EI
+  * Duties includes: Research activities
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Fall 2018: Junior Researcher
+  * Centro de Investigaciones para el Desarrollo - Universidad Nacional de Colombia
+  * Duties included: Programing, conducting experiments. 
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Otree
+* Data Analysis
+  * Stata
+  * Python
+* Qualtrics
 
 Publications
 ======
@@ -59,6 +52,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Grants
 ======
-* Currently signed in to 43 different slack teams
+* GA UK
